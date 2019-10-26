@@ -1,6 +1,8 @@
 # AndroidWebScraper
 AndroidWebScraper is an android based e-commerce sites scraper that uses jsoup library.
 
+- that commit message is "sharing for(not got) whoever need its".
+
 ### Warning
 - This is an and old project I made just to experiment with android based webscraping.
 - This is not a regularily maintained project, beacuse it have almost no commerial use, It can't be put on playstore as I don't think scraping sites like this is legeal.(This is made just for educational purpose).
