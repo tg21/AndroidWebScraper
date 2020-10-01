@@ -1,4 +1,4 @@
-# AndroidWebScraper
+# AndroidWebScraper-An Aamzing Platform
 AndroidWebScraper is an android based e-commerce sites scraper that uses jsoup library.
 
 - that commit message is "sharing for(not got) whoever need its".
